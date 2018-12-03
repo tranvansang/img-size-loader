@@ -1,0 +1,13 @@
+{
+  "name": "img-size-loader",
+  "version": "0.0.1",
+  "description": "webpack image size loader. does not emit file",
+  "main": "index.js",
+  "repository": "git@github.com:tranvansang/img-size-loader.git",
+  "author": "Tran Sang <info@transang.me>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "image-size": "^0.6.3"
+  }
+}
