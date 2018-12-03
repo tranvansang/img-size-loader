@@ -9,5 +9,12 @@
   "private": false,
   "dependencies": {
     "image-size": "^0.6.3"
-  }
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "image",
+    "image-size",
+    "size"
+  ]
 }
